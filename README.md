@@ -30,3 +30,22 @@ $ python CamHack.py
 
 ```
 
+#### For iSH
+ 
+To use the application, type in the following commands in iSH.
+```shell script
+apk add git
+apk add python3
+apk add py3-pip
+apk add python2
+gem install toilet
+git clone https://github.com/Aryan-mfc/CAM-HACK.git
+cd CAM-HACK
+chmod +x *
+python CamHack.py
+
+ Tool Installation successful
+
+```
+
+
