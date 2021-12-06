@@ -10,3 +10,23 @@ CC CAMERA HACKING TOOL
 <a href="https://github.com/Aryan-Mfc"><img title="Author" src="https://img.shields.io/badge/Author-Aryan--Mfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+### Installation On Termux
+ 
+ 
+```bash
+$ apt update
+$ apt upgrade
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ pkg install figlet
+$ git clone https://github.com/Aryan-mfc/CAM-HACK.git
+$ cd CAM-HACK
+$ ls
+$ chmod +x *
+$ python CamHack.py
+
+ Tool Installation successful
+
+```
+
